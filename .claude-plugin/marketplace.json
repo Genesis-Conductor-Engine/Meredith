@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "meredith",
+  "owner": {
+    "name": "Genesis Conductor Engine (Igor Holt @invariantx)",
+    "url": "https://github.com/Genesis-Conductor-Engine"
+  },
+  "description": "Meredith experimental repository in the Genesis Conductor Engine org. Lower-profile public straggler addressed in the Claude Marketplace Manifest Rollout for full public ecosystem coverage with Genesis Conductor / OpenClaw ties.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Genesis-Conductor-Engine/Meredith",
+  "keywords": [
+    "genesis-conductor",
+    "invariantx",
+    "meredith",
+    "experimental",
+    "openclaw-ecosystem"
+  ],
+  "plugins": [
+    {
+      "name": "meredith",
+      "source": "https://github.com/Genesis-Conductor-Engine/Meredith",
+      "description": "Meredith experimental component under Genesis Conductor Engine. Contributes to the diverse public prototype and research surface. Complements the professional OpenClaw skills (grok-persistent-state etc.) published at the main @invariantx marketplace.",
+      "version": "1.0.0",
+      "tags": ["experimental", "meredith", "genesis-conductor"],
+      "category": "experimental",
+      "homepage": "https://github.com/Genesis-Conductor-Engine/Meredith",
+      "keywords": ["genesis conductor meredith", "@invariantx experimental"]
+    }
+  ],
+  "links": {
+    "github": "https://github.com/Genesis-Conductor-Engine/Meredith",
+    "main-marketplace": "https://github.com/igor-holt/openclaw-skills",
+    "x": "https://x.com/invariantx"
+  }
+}
